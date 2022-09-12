@@ -1437,6 +1437,12 @@ input, select, textarea {
 		margin-bottom: 2em;
 	}
 
+/* Links always same color */
+
+	a {
+		color: blue;
+	}
+
 /* Table */
 
 	table {
